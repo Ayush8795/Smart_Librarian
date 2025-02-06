@@ -1,6 +1,6 @@
 # Library Management System
 
-A simple website for library management system on Java and SQL server
+A smart library system for library management system using Java and SQL server
 
 ## Technology
 #### Front-End
